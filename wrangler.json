@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cpu-metrics",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "56c0aa9a-f233-4a47-9180-20c53e0c4d39",
+      "database_name": "cpu-metrics-dashboard"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
